@@ -36,7 +36,7 @@ int main(void)
   printf ("*p = %d\n", *p);
 
   printf ("p = %p; q = %p; p - q = %ld\n", p, q, p - q);
-  
+
   return 0;
 }
 
